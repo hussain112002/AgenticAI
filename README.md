@@ -44,7 +44,7 @@ A sophisticated AI agent system with quality control supervision, mathematical r
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-agent-supervisor.git
+   git clone https://github.com/hussain112002/AgenticAI.git
    cd AgenticAI
    ```
 
